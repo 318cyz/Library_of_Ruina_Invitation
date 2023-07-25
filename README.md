@@ -1,4 +1,5 @@
 # Library_of_Ruina_Invitation
+Forked from RaySong513/Library_of_Ruina_Invitation (https://github.com/RaySong513/Library_of_Ruina_Invitation).
 - Files of Library_of_Ruina_Invitation
 - If you like it, please leave a "*star*" for this repository :-)
 - 如果你喜欢这个邀请函，可以在右上点击一颗星星
